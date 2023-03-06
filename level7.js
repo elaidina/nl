@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Pega los ojos, la nariz y la boca a la máscara.'
+      img: 'Plak de ogen, de neus en de mond op het masker.'
     },
     {
       name: '2',

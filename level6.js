@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "¿Como puedo ayudarte?"
+      img: "Hoe kan ik u helpen?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "¿Puedes mirar la mesa?"
+      img: "Kun je even op tafel kijken?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Estaba debajo de la mesa.'
+      img: 'Het lag onder de tafel.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Pensé que estaba en la cómoda o junto a la silla.'
+      img: 'Ik dacht dat het op de kast of bij de stoel lag.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Estoy construyendo un coche de lego."
+      img: "Ik bouw een lego-auto."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Mira este pequeño dibujo.'
+      img: 'Kijk eens naar deze kleine foto.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hay muchas fresas, cerezas, frambuesas y uvas.'
+      img: 'Er zijn veel aardbeien, kersen, frambozen en druiven.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Las peras y los albaricoques aún no están maduros.'
+      img: 'De peren en abrikozen zijn nog niet rijp.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Aquí está tu plato, tenedor, taza y cuchara.'
+      img: 'Hier is je bord, vork, kopje en lepel.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: '¿Este es tu bolso o no?'
+      img: '"Is dit jouw tas of niet?'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mi muñeca tiene grandes ojos azules y cabello largo.'
+      img: 'Mijn pop heeft grote blauwe ogen en lang haar.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Tomemos un par de tijeras y cortemos un pequeño corazón."
+      img: "Laten we een schaar pakken en een hart uitknippen."
     }
   ]
 
