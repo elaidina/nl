@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Me gustaría recoger algunas flores para mi mamá.'
+      img: 'Ik zou graag wat bloemen willen plukken voor mijn moeder.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Las manzanas están maduras y redondas.'
+      img: 'De appels zijn rijp en rond.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Encontré muchos regalos debajo del árbol de Navidad.'
+      img: 'Ik heb veel cadeautjes gevonden onder de kerstboom.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'No me gusta planchar.'
+      img: 'Ik hou niet van strijken.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Estoy demasiado ocupado hoy.'
+      img: 'Ik heb het te druk vandaag.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Mira a tu alrededor.'
+      img: 'Kijk om je heen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: '¿Cuántas cosas interesantes puedes ver?'
+      img: 'Hoeveel interessante dingen kun je zien?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Conozco mucha gente, animales, casas, árboles y flores.'
+      img: 'Ik ken veel mensen, dieren, huizen, bomen en bloemen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: '¿Pero lo sabes todo?'
+      img: 'Maar weet jij alles?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Nadie lo sabe todo.'
+      img: 'Niemand weet alles.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Algunos adultos conocen muchas canciones para niños.'
+      img: 'Sommige volwassenen kennen veel liedjes voor kinderen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Algunas personas no pueden reparar autos.'
+      img: "Sommige mensen kunnen geen auto's repareren."
     }
   ]
 

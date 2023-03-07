@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Aprendemos porque queremos conocer el mundo que nos rodea.'
+      img: 'We leren omdat we de wereld om ons heen willen leren kennen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'También queremos saber cómo hacer las cosas.'
+      img: 'We willen ook weten hoe we dingen moeten maken.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mi amigo tiene un hermanito.'
+      img: 'Mijn vriend heeft een klein broertje.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Quiere saberlo todo.'
+      img: 'Hij wil alles weten.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Él siempre hace preguntas.'
+      img: 'Hij stelt altijd vragen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: '¿Vive la gente en la Luna?'
+      img: 'Leven er mensen op de maan?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: '¿Por qué trabaja la gente?'
+      img: 'Waarom werken mensen?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: '¿Comen y beben las flores?'
+      img: 'Eten en drinken bloemen?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Voy a mi padre y le pregunto.'
+      img: 'Ik ga naar mijn vader en vraag het hem.'
     },
     {
       name: '10',
@@ -79,15 +79,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Él sabe muchas cosas.'
+      img: 'Hij weet veel dingen.'
     },
     {
       name: '11',
-      img: 'Vivo en un bloque de pisos.'
+      img: 'I live in a block of flats.'
     },
     {
       name: '11',
-      img: 'Jag bor i ett flerfamiljshus.'
+      img: 'Ik woon in een flatgebouw.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'No hay chimenea en nuestra casa.'
+      img: 'Er is geen schoorsteen in ons huis.'
     }
   ]
 

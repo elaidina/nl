@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Son muy sucios y gordos, pero también divertidos.'
+      img: 'Ze zijn erg vies en dik, maar ook grappig.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Les gusta jugar en el barro.'
+      img: 'Ze spelen graag in de modder.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'A los niños les gusta jugar en el patio.'
+      img: 'De kinderen spelen graag in de tuin.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Están ansiosos por hacer una choza.'
+      img: 'Ze kijken ernaar uit om een hut te maken.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Necesitan un martillo, clavos y tablones.'
+      img: 'Ze hebben een hamer, spijkers en planken nodig.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Me gusta ayudarlos a martillar las tablas.'
+      img: 'Ik wil ze graag helpen met het hameren van de planken.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Más bien ayúdanos a martillar los clavos.'
+      img: 'Help ons liever de spijkers te slaan.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: '¿Qué te parece la cabaña terminada?'
+      img: 'Wat vind je van de afgewerkte hut?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Es la mejor cabaña que existe.'
+      img: 'Het is de beste hut ooit.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Es un hermoso día caluroso.'
+      img: 'Het is een heerlijke warme dag.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Los niños están en la orilla del río.'
+      img: 'De kinderen zijn aan de rivier.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hay mucha arena por todas partes.'
+      img: 'Er is overal veel zand.'
     }
   ]
 

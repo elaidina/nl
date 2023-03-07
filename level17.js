@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Nos acercamos al bosque.'
+      img: 'We naderen het bos.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'No podemos ir en coche al bosque.'
+      img: 'We kunnen niet met de auto het bos in.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Me gusta mucho estar aquí.'
+      img: 'Ik vind het hier erg leuk.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Podemos jugar en el prado.'
+      img: 'We kunnen in de wei spelen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Mira, hay una mariposa en esa flor.'
+      img: 'Kijk, er zit een vlinder op die bloem.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: '¿Te gustaría recoger champiñones y fresas?'
+      img: 'Wil je paddenstoelen en aardbeien plukken?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Mi amigo vive en una casa cerca del río.'
+      img: 'Mijn vriend woont in een huis bij de rivier.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Él juega con su perro todos los días.'
+      img: 'Hij speelt elke dag met zijn hond.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: '¿Observas a veces caballos y vacas en el prado?'
+      img: 'Kijkt u soms naar paarden en koeien in de wei?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tengo miedo de ese perro grande.'
+      img: 'Ik ben bang voor die grote hond.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Quiero mostrarte algo.'
+      img: 'Ik wil je iets laten zien.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: '¿Quieres ver a los cerdos y lechones?'
+      img: 'Wil je varkens en biggen zien?'
     }
   ]
 

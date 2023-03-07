@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hay un puente que cruza el río.'
+      img: 'Er is een brug over de rivier.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'No importa.'
+      img: 'Het maakt niet uit.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Podemos beber agua o jugo de naranja.'
+      img: "We kunnen water of jus d'orange drinken."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Estás nadando como un perro.'
+      img: 'Je zwemt als een hond.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Estoy nadando como un gato.'
+      img: 'Ik zwem als een kat.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: '¿Puede hablar Inglés?'
+      img: 'Spreek je Engels?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: '"Me voy el lunes.'
+      img: 'Ik vertrek maandag.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Lamento mucho tener que irme.'
+      img: 'Het spijt me heel erg dat ik moet vertrekken.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Nos gustaría despedirnos de ti.'
+      img: 'We willen graag afscheid van je nemen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Es una pena que te vayas.'
+      img: 'Het is jammer dat je weggaat.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tenga cuidado y buena suerte.'
+      img: 'Pas op en veel succes.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Disfruto de mucha nieve en enero.'
+      img: 'Ik geniet van veel sneeuw in januari.'
     }
   ]
 
