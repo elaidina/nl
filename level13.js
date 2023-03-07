@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: '¿Qué piensas acerca de eso?'
+      img: 'Wat denk jij ervan?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Apaga la luz.'
+      img: 'Doe het licht uit.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: '¿Dónde juegas con tus amigos?'
+      img: 'Waar speel je met je vrienden?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: '¿Cuándo llegas a casa del trabajo?'
+      img: 'Wanneer kom je thuis van je werk?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sujeta el destornillador.'
+      img: 'Houd de schroevendraaier vast..'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Veo un cuento antes de dormir todas las noches.'
+      img: 'Ik kijk elke avond een verhaaltje voor het slapengaan.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: '¿Puedes adivinar lo que soy?'
+      img: 'Kun je raden wat ik ben?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: '¿Plantas flores y árboles?'
+      img: 'Plant u bloemen en bomen?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Sí, soy jardinero.'
+      img: 'Ja, ik ben een tuinman.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Adivina en qué estoy pensando.'
+      img: 'Raad eens waar ik aan denk.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: '¿Es un niño, una niña, un animal o una cosa?'
+      img: 'Is het een jongen, een meisje, een dier of een ding?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: '¿Está colgado en la pared?'
+      img: 'Hangt het aan de muur?'
     }
   ]
 

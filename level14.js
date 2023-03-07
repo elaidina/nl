@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: '¿Se mueve?'
+      img: 'Beweegt het?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: '¿Como vas a la escuela?'
+      img: 'Hoe ga je naar school?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: '¿A pie, en autobús, en tranvía o en coche?'
+      img: 'Te voet, met de bus, met de tram of met de auto?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vamos a hacer una ensalada en la cocina.'
+      img: 'We gaan een salade maken in de keuken.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Necesitamos un cuchillo, una cuchara, un tazón, zanahorias, un pepino, un repollo, guisantes, un poco de azúcar y jugo de limón.'
+      img: 'We hebben een mes nodig, een lepel, een kom, wortels, een komkommer, een kool, erwten, wat suiker en citroensap.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Primero, cortamos las verduras.'
+      img: 'Eerst snijden we de groenten.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Luego mezclamos todos los ingredientes.'
+      img: 'Dan mengen we alle ingrediënten door elkaar.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Finalmente, ponemos todo en platos.'
+      img: 'Eindelijk hebben we alles op borden gezet.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'La ensalada es muy sabrosa.'
+      img: 'De salade is erg lekker.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Mi habitación está hecha un desastre.'
+      img: 'Mijn kamer is een puinhoop.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hay ropa por todas partes.'
+      img: 'Overal is kleding.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Todos mis libros y juguetes están en el suelo.'
+      img: 'Al mijn boeken en speelgoed liggen op de grond.'
     }
   ]
 

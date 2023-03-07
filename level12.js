@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Te haré un té.'
+      img: 'Ik zal thee voor je zetten.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Tiene dolor de garganta y dolor de cabeza.'
+      img: 'Hij heeft keelpijn en hoofdpijn.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Todos tienen dolor de barriga'
+      img: 'Ze hebben allemaal buikpijn.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: '¿Que pasa con migo?'
+      img: 'Wat is er mis met me?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Debemos quedarnos en casa.'
+      img: 'We moeten thuis blijven.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'No quiero coger un resfriado.'
+      img: 'Ik wil niet verkouden worden.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Sigo comiendo muchas frutas y verduras y tomando té caliente con limón y miel.'
+      img: 'Ik blijf veel groenten en fruit eten en warme thee drinken met citroen en honing.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Límpiate la nariz con un pañuelo.'
+      img: 'Veeg je neus af met een zakdoek.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ven conmigo.'
+      img: 'Ga met me mee.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Puedes ayudarme si quieres.'
+      img: 'U kunt me helpen als u wilt.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Regresará por la tarde.'
+      img: 'Ze komt in de middag terug..'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Quiero ver la televisión por la noche.'
+      img: "Ik wil 's avonds televisie kijken."
     }
   ]
 

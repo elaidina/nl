@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Quiero convertirme en maestro.'
+      img: 'Ik wil een leraar worden.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Quiero enseñar a los niños.'
+      img: 'Ik wil kinderen lesgeven.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ella quiere ser doctora.'
+      img: 'Ze wil dokter worden.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Su sueño es curar a la gente.'
+      img: 'Haar droom is om mensen te genezen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: '¿Puedes conducir un coche?'
+      img: 'Kun je autorijden?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Sí, soy un buen conductor.'
+      img: 'Ja, ik ben een goede chauffeur.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: '¿Cuántos coches tienes?'
+      img: "Hoeveel auto's heb je?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Tengo dos autos y tres bicicletas.'
+      img: "Ik heb twee auto's en drie fietsen."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ven a jugar a las cartas conmigo.'
+      img: 'Kom en speel kaarten met mij.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Preferiría jugar al baloncesto.'
+      img: 'Ik speel liever basketbal.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: '¿Eres bueno para jugar al fútbol?'
+      img: 'Ben je goed in voetballen?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Para nada.'
+      img: 'Helemaal niet.'
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

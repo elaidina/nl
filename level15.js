@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ordena esta habitación, por favor.'
+      img: 'Ruim deze kamer op, alsjeblieft.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Busco mi almohada.'
+      img: 'Ik zoek mijn kussen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vamos a vestir nuestras muñecas.'
+      img: 'Laten we onze poppen aankleden.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: '¿Qué lleva la muñeca?'
+      img: 'Wat heeft de pop aan?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'La muñeca tiene calzoncillos azules, pantalones verdes, camiseta amarilla, zapatitos y una chaqueta verde.'
+      img: 'De pop heeft een blauwe onderbroek, een groene broek, een geel t-shirt, schoentjes en een groen jasje.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Te ves tan hermosa con este vestido.'
+      img: 'Je ziet er zo mooi uit in deze jurk.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Lleva falda roja, calzas blancas, pantimedias azules, blusa blanca y chaqueta verde.'
+      img: 'Ze draagt een rode rok, een wit broekje, een blauwe maillot, een witte blouse en een groen jasje.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ellos van de viaje hoy.'
+      img: 'Ze gaan vandaag op reis.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ellos necesitan empacar muchas cosas.'
+      img: 'Ze moeten veel dingen inpakken.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'No quiero levantarme.'
+      img: 'Ik wil niet opstaan.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Te pones las zapatillas y estás listo para ir.'
+      img: 'Je trekt je sportschoenen aan en je bent klaar om te gaan.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Toda la familia se va al campo hoy.'
+      img: 'De hele familie gaat vandaag naar het platteland.'
     }
   ]
 

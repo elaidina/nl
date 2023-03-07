@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Dibujar es difícil.'
+      img: 'Tekenen is moeilijk.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: '¿Cómo se construye una casa?'
+      img: 'Hoe bouw je een huis?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'La casa consta de paredes, un techo, ventanas, una chimenea, una cerca y una puerta.'
+      img: 'Het huis bestaat uit muren, een dak, ramen, een schoorsteen, een hek en een deur.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'La bola azul es más grande que la bola roja.'
+      img: 'De blauwe bal is groter dan de rode bal.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: '¿Qué bola es la más grande?'
+      img: 'Welke bal is de grootste?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Me gustaría aprender una canción en inglés.'
+      img: 'Ik zou graag een Engels liedje willen leren.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Podemos llamar a María.'
+      img: 'We kunnen Maria bellen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ella es una muy buena cantante.'
+      img: 'Ze is een heel goede zangeres.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Escucha, ¿conoces esta canción?'
+      img: 'Luister, ken je dit liedje?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hay un libro brillante en el estante.'
+      img: 'Er ligt een briljant boek op de plank.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'A menudo leo este libro.'
+      img: 'Dit boek lees ik vaak.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Soy demasiado bajo para alcanzar el libro en el estante.'
+      img: 'Ik ben te klein om bij het boek op de plank te komen.'
     }
   ]
 

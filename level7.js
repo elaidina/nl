@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mi vestido es demasiado corto y holgado.'
+      img: 'Mijn jurk is te kort en te wijd.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Me paro en el medio del círculo.'
+      img: 'Ik sta in het midden van een cirkel.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ponte los zapatos.'
+      img: 'Doe je schoenen aan.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Cuídate.'
+      img: 'Zorg voor jou.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: '¿Vives en la ciudad o en el campo?'
+      img: 'Woont u in een stad of een dorp?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: '¿Que ves?'
+      img: 'Wat kunt u zien?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Veo un patito, algunos pollitos, un perro y un gato.'
+      img: 'Ik zie een eendje, wat kuikens, een hond en een kat.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: '¿De qué color es ese gato?'
+      img: 'Welke kleur heeft de kat?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'El gato es negro.'
+      img: 'De kat is zwart.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Me gusta el helado de chocolate.'
+      img: 'Ik hou van chocolade-ijs.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Me gusta escuchar historias.'
+      img: 'Ik luister graag naar verhalen.'
     }
   ]
 
