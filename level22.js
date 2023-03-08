@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'No me gusta ayudar a mi mamá en la cocina.'
+      img: 'Ik help mijn moeder niet graag in de keuken.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Prefiero jugar en el patio de recreo.'
+      img: 'Ik speel liever op de speelplaats.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Yo siempre pongo la mesa.'
+      img: 'Ik dek altijd de tafel.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'La sala de estar es la habitación más grande de nuestro apartamento.'
+      img: 'De woonkamer is de grootste kamer in onze flat.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Mi papá trabaja en su computadora aquí.'
+      img: 'Mijn vader werkt hier op zijn computer..'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Prefiero jugar juegos en la computadora.'
+      img: 'Ik speel liever spelletjes op de computer.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Los niños pequeños juegan en el arenero.'
+      img: 'Kleine kinderen spelen in de zandbak.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ponte tus pantalones limpios.'
+      img: 'Trek je schone broek aan.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'En primavera, el campo es hermoso.'
+      img: 'In het voorjaar is het land prachtig.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Los árboles, los prados y los jardines están llenos de flores.'
+      img: 'Bomen, weiden en tuinen staan vol bloemen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vamos al lago que no está lejos de nuestro pueblo.'
+      img: 'We gaan naar het meer dat niet ver van onze stad ligt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jugamos con arena y nadamos allí.'
+      img: 'We spelen met zand en zwemmen daar.'
     }
   ]
 

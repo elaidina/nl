@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Me gusta el verano porque papá me compra muchos helados.'
+      img: 'Ik hou van de zomer omdat papa veel ijs voor me koopt.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'El bosque es muy colorido en otoño.'
+      img: 'Het bos is heel kleurrijk in de herfst.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Los campos, colinas, casas y árboles están cubiertos de nieve en invierno.'
+      img: 'De velden, heuvels, huizen en bomen zijn bedekt met sneeuw in de winter.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hacemos un muñeco de nieve con mis amigos.'
+      img: 'We maken een sneeuwpop met mijn vrienden.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Mi tía alimenta a sus gallinas y patos con maíz y trigo.'
+      img: 'Mijn tante voert haar kippen en eenden met maïs en tarwe.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ella vierte un poco de leche en un tazón.'
+      img: 'Ze giet wat melk in haar kom.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Los pequeños gatitos son lindos y divertidos.'
+      img: 'De kleine kittens zijn schattig en grappig.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Siempre ponen sus patas en el tazón y derraman la leche.'
+      img: 'Ze steken altijd hun poten in de kom en morsen de melk.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mi tío es muy hábil.'
+      img: 'Mijn oom is erg handig.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Él planta verduras y flores.'
+      img: 'Hij plant groenten en bloemen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'La abuela hace muy buena mermelada y compota de frutas.'
+      img: 'Oma maakt erg goede jam en gestoofd fruit.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ayudo al abuelo a recoger manzanas, peras, uvas y ciruelas.'
+      img: 'Ik help opa appels, peren, druiven en pruimen te plukken.'
     }
   ]
 

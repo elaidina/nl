@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Dice que pongo más fruta en la barriga que en la canasta.'
+      img: 'Hij zegt dat ik meer fruit in mijn buik stop dan in de mand.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'En invierno, el abuelo hace una casa para pájaros y la cuelga en el árbol.'
+      img: 'In de winter maakt opa een vogelhuisje en hangt dat in de boom.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Él pone algo de comida allí, para que los pájaros no tengan hambre en el frío invierno.'
+      img: 'Hij zet er wat voer neer, zodat de vogels geen honger hebben in de koude winter.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Debemos protegerlos porque ellos nos ayudan.'
+      img: 'We moeten ze beschermen omdat ze ons helpen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Comen insectos.'
+      img: 'Ze eten insecten.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Algunos insectos pueden dañar las plantas.'
+      img: 'Sommige insecten kunnen de planten beschadigen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: '¿Por qué no desayunamos helado?'
+      img: 'Waarom hebben we geen ijs als ontbijt?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Está nevando y sopla un viento frío.'
+      img: 'Het sneeuwt en er waait een koude wind.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'El té es demasiado amargo.'
+      img: 'De thee is te bitter.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'El jugo de limón lo hace más amargo.'
+      img: 'Citroensap maakt het zuurder.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tomo mi desayuno y salgo.'
+      img: 'Ik eet mijn ontbijt op en ga uit.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'El hielo es resbaladizo.'
+      img: 'Het ijs is glad.'
     }
   ]
 
