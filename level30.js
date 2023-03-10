@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Su hermana pequeña también quería jugar.'
+      img: 'Haar kleine zusje wilde ook spelen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Pateó la pelota en el aire y Jamie corrió tras ella.'
+      img: 'Ze trapte de bal hoog de lucht in en Jamie rende er achteraan.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Cuidado con el estanque, por favor'
+      img: 'Let op de vijver, alstublieft'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Desafortunadamente, la pelota rodó hasta un macizo de flores y corrimos a buscarla.'
+      img: 'Helaas rolde de bal in een bloembed en renden we om hem te vinden.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Algo zumbó alrededor de mi cara.'
+      img: 'Er zoemde iets rond mijn gezicht.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Era una abeja.'
+      img: 'Het was een bij.'
     },
     {
       name: '7',

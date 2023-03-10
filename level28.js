@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Antes de que alguien pudiera detenerme, me fui a casa.'
+      img: 'Voordat iemand me kon tegenhouden, ging ik naar huis.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'No pudieron encontrarme por ninguna parte.'
+      img: 'Ze konden me nergens vinden.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Cuando llegamos a la nueva casa, nos sentimos miserables.'
+      img: 'Toen we het nieuwe huis bereikten, voelden we ons ellendig.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: '¡Acabo de tener una idea brillante!'
+      img: 'Ik heb net een lumineus idee gehad!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Uno de mis cordones se desató y lo pisé.'
+      img: 'Een van mijn veters ging los en ik trapte erop.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Tuve que atar mis cordones correctamente.'
+      img: 'Ik moest mijn veters goed strikken.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Se fue en el auto.'
+      img: 'Hij reed weg in de auto.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Mamá no estaba muy contenta conmigo.'
+      img: 'Mama was niet erg blij met mij.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Había mucho que hacer.'
+      img: 'Er was zoveel te doen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Vamos a trepar a ese árbol.'
+      img: 'Laten we die boom gaan beklimmen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Esa noche, dormí en mi nueva habitación por primera vez.'
+      img: 'Die nacht sliep ik voor het eerst in mijn nieuwe slaapkamer.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Pronto estaba dormido en mi nuevo hogar.'
+      img: 'Al snel sliep ik in mijn nieuwe huis.'
     }
   ]
 

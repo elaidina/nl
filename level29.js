@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'He encontrado a tus bebés.'
+      img: "Ik heb je baby's gevonden."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: '¡No hagas eso!'
+      img: 'Doe dat niet!'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Cuando está rojo, tenemos que parar y esperar hasta que esté verde de nuevo.'
+      img: 'Als het rood is, moeten we stoppen en wachten tot het weer groen is.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Agárrate fuerte a mis manos.'
+      img: 'Houd mijn handen stevig vast.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Esta es una calle muy transitada.'
+      img: 'Dit is een erg drukke weg.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Debemos encontrar un cruce seguro.'
+      img: 'We moeten een veilige oversteek vinden.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Mira, hay semáforos.'
+      img: 'Kijk, er zijn verkeerslichten.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Presioné el botón y pronto el tráfico se detuvo.'
+      img: 'Ik drukte op de knop en al snel stopte het verkeer.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'El hombre verde nos mostró que debemos cruzar ahora.'
+      img: 'De groene man heeft ons laten zien dat we nu moeten oversteken.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Él pitó para darnos prisa.'
+      img: 'Hij piepte om op te schieten.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Estaba contenta de ver a su amiga.'
+      img: 'Ze was blij haar vriendin te zien.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jugaban al fútbol en el jardín.'
+      img: 'Ze voetbalden in de tuin.'
     }
   ]
 

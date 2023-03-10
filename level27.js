@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: '¿Quién va a hacer pan?'
+      img: 'Wie gaat er brood bakken?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Voy a comer este pan.'
+      img: 'Ik ga dit brood eten.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Se van a mudar de casa.'
+      img: 'Ze gaan verhuizen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hay mucho trabajo por hacer.'
+      img: 'Er is een hoop werk te doen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Debemos clasificar las cosas que queremos conservar y las que podemos tirar.'
+      img: 'We moeten de dingen die we willen behouden en de dingen die we kunnen weggooien, uitzoeken.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Los gatitos seguían interponiéndose en el camino.'
+      img: 'De kittens bleven in de weg zitten.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Por fin llegó el día de la mudanza.'
+      img: 'Eindelijk was het de dag van de verhuizing.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Vimos a los hombres empacar cosas y ponerlas en la camioneta.'
+      img: 'We keken hoe de mannen spullen inpakten en in het busje stopten.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Llevó mucho tiempo.'
+      img: 'Het duurde lang.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Cuando la casa estaba bastante vacía, nos sentimos un poco tristes.'
+      img: 'Toen het huis vrij leeg was, voelden we ons een beetje verdrietig.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mi hermano llevaba los peces dorados en su tanque.'
+      img: 'Mijn broer droeg de goudvis in hun aquarium.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'El bebé necesitaba un abrazo.'
+      img: 'De baby had een knuffel nodig.'
     }
   ]
 
