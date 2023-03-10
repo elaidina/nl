@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'No te caigas.'
+      img: 'Val niet.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Camina despacio.'
+      img: 'Loop langzaam.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mis amigos están haciendo un muñeco de nieve.'
+      img: 'Mijn vrienden maken een sneeuwpop.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Mi cumpleaños es en invierno.'
+      img: 'Ik ben jarig in de winter.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'La gente tiene su cumpleaños solo una vez al año.'
+      img: 'Mensen zijn maar één keer per jaar jarig.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Es una lastima.'
+      img: 'Het is jammer.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Mi hija nació el jueves.'
+      img: 'Mijn dochter is donderdag geboren.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Nadie sabe por qué el gato está tan gordo."'
+      img: 'Niemand weet waarom de kat zo dik is.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'La niña puede abotonarse el suéter pero no puede subirse la cremallera de la chaqueta. '
+      img: 'Het kleine meisje kan de trui dichtknopen, maar ze kan het jasje niet dichtritsen. '
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Le gusta jugar con agua en el baño.'
+      img: 'Ze speelt graag met water in de badkamer.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ella lava sus medias, camisa y pijama.'
+      img: 'Ze wast haar sokken, shirt en pyjama.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hay mucha agua por todas partes.'
+      img: 'Er is overal veel water.'
     }
   ]
 

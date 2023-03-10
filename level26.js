@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'El suelo y las paredes están mojados.'
+      img: 'De vloer en de muren zijn nat.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ella nunca obedece.'
+      img: 'Ze gehoorzaamt nooit.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'El abuelo tiene que sacar un nabo gigante.'
+      img: 'Opa moet een gigantische raap uittrekken.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Él tira y tira del nabo pero no puede sacarlo.'
+      img: 'Hij trekt en trekt aan de raap, maar hij kan hem er niet uittrekken.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Debe llamar a su nieto.'
+      img: 'Hij moet zijn kleinzoon bellen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Tiran hasta que sale el nabo.'
+      img: 'Ze trekken tot de raap eruit komt.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Todos caen al suelo y se ríen.'
+      img: 'Ze vallen allemaal op de grond en lachen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: '¿Por qué los animales no pueden hablar?'
+      img: 'Waarom kunnen dieren niet praten?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ellos pueden pero no los entendemos.'
+      img: 'Dat kunnen ze wel, maar wij begrijpen ze niet.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Esa gallina le está contando cuentos a sus pollitos.'
+      img: 'Die kip vertelt verhalen aan haar kuikens.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: '¿De que se trata la historia?'
+      img: 'Waar gaat het verhaal over?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Cuéntame la historia, por favor.'
+      img: 'Vertel me het verhaal alsjeblieft.'
     }
   ]
 
