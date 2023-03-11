@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Era hora de que Tom fuera de compras.'
+      img: 'Het was tijd voor Tom om te gaan winkelen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mientras yo estaba sentado en la sala de espera, ella estaba leyendo cómics.'
+      img: 'Terwijl ik in de wachtkamer zat, las ze strips.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'La puerta se abrió y salió el presidente.'
+      img: 'De deur ging open en de president kwam naar buiten.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom me sonrió.'
+      img: 'Tom glimlachte naar me.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: '¿Por qué tienes que usar un aparato ortopédico en los dientes?'
+      img: 'Waarom moet je een beugel om je tanden dragen?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Para enderezar mis dientes.'
+      img: 'Om mijn tanden recht te maken.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Laura está lista para verte ahora.'
+      img: 'Laura is nu klaar om je te zien.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Este es un olor agradable y limpio.'
+      img: 'Dit is een lekkere schone geur.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: '¿Quién quiere ir primero?'
+      img: 'Wie wil er als eerste gaan?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom se subió a la silla del dentista.'
+      img: 'Tom klom in de tandartsstoel.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'La Sra. White presionó un botón y la silla se inclinó hacia atrás.'
+      img: 'Tom klom in de tandartsstoel.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom se sintió como un piloto de cohetes.'
+      img: 'Tom voelde zich net een raketpiloot.'
     }
   ]
 

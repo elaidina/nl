@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Cuando estaban limpios, los colgaba en el jardín.'
+      img: 'Toen ze schoon waren, heeft ze ze in de tuin gehangen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hacía buen tiempo para secarse.'
+      img: 'Het was mooi weer om te drogen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Después de secarse, la mayoría de los fantasmas se convirtieron en bonitas cortinas.'
+      img: 'Na het drogen werden de meeste geesten mooie gordijnen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Uno de ellos hizo un buen mantel.'
+      img: 'Een van hen heeft een goed tafelkleed gemaakt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Todos fueron muy útiles.'
+      img: 'Ze waren allemaal erg nuttig.'
     }
   ]
 

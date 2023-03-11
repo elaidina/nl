@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Se puso una máscara desechable sobre la nariz y la boca.'
+      img: 'Ze deed een wegwerpmasker over haar neus en mond.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: '¿Para qué es eso?'
+      img: 'Waar is dat voor?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Para que no respire sobre ti.'
+      img: 'Zodat ik niet over je heen adem.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Es tu turno ahora.'
+      img: 'Nu is het jouw beurt.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Encontró un pequeño agujero en uno de los dientes de Tom.'
+      img: 'Ze vond een gaatje in een van Toms tanden.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Limpiaré ese agujero y le pondré un relleno.'
+      img: 'Ik zal dat gat schoonmaken en er een vulling in doen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Evitará que entren pedazos de comida y se vuelvan desagradables.'
+      img: 'Het zal voorkomen dat er stukjes voedsel binnenkomen en vies worden.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'El tubo de succión en la boca de Tom hizo ruidos de succión divertidos.'
+      img: 'Het zuigbuisje in Toms mond maakte grappige zuiggeluiden.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Luego usó un taladro para limpiar el agujero en el diente de Tom.'
+      img: 'Toen gebruikte ze een zoemende boor om het gat in Toms tand schoon te maken.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'La enfermera le dio a Tom un vaso de agua rosa para enjuagarse la boca.'
+      img: 'De verpleegster gaf Tom een glas roze water om haar mond te spoelen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'El dentista secó el agujero con un pequeño soplador de aire, para que el empaste se pegara bien adentro.'
+      img: 'De tandarts heeft het gaatje gedroogd met een klein luchtblazertje, zodat de vulling er strak in zou blijven zitten.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'La enfermera mezcló un poco de relleno de plata.'
+      img: 'De verpleegster heeft een heel klein beetje zilvervulling gemengd.'
     }
   ]
 

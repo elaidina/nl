@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'La pequeña bruja comenzó a sentirse muy cansada después de su arduo trabajo.'
+      img: 'De kleine heks begon zich erg moe te voelen na haar harde werken.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Todos ellos vivieron felices para siempre.'
+      img: 'Ze leefden nog lang en gelukkig.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mira arriba y mira abajo.'
+      img: 'Kijk omhoog en kijk omlaag.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hay una gotera en el techo.'
+      img: 'Er zit een lek in het dak.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Es fácil de reparar.'
+      img: 'Het is gemakkelijk te repareren.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Pero, ¿cómo puedes llegar hasta allí?'
+      img: 'Maar hoe kun je daarboven reiken?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'No puedo trepar.'
+      img: 'Ik kan niet omhoog klimmen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Es demasiado empinado.'
+      img: 'Het is veel te steil..'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tengo que pedir prestada una escalera.'
+      img: 'Ik moet een ladder lenen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'El niño salta sobre los charcos y tropieza.'
+      img: 'Het kind springt over de plassen en struikelt.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ella explica cómo la lluvia goteaba en su té.'
+      img: 'Ze legt uit hoe de regen in haar thee druppelde.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mi ventana no se cierra.'
+      img: 'Mijn raam wil niet sluiten.'
     }
   ]
 

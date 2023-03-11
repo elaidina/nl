@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Está atascado.'
+      img: 'Het zit vast.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Él hace lo que puede para cerrar la brecha.'
+      img: 'Hij doet wat hij kan om het gat te dichten.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'El problema es que tu vaso es demasiado delgado.'
+      img: 'Het probleem is dat je glas te dun is.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Regresa despacio.'
+      img: 'Rij langzaam terug.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Disminuya la velocidad en las curvas.'
+      img: 'Vertraag in de bochten.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Él va a chocar.'
+      img: 'Hij gaat crashen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Qué mucha mala suerte.'
+      img: 'Wat een hoop pech.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Si tan solo esa lluvia no hubiera goteado en su té.'
+      img: 'Als die regen maar niet in zijn thee was gedruppeld.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Olvidó cerrar el grifo de su baño.'
+      img: 'Hij vergat zijn badkraan dicht te draaien.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Este libro me pertenece.'
+      img: 'Dit boek is van mij.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tengo que ir al dentista.'
+      img: 'Ik moet naar de tandarts.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Este libro le pertenece a él.'
+      img: 'Dit boek is van hem.'
     }
   ]
 
