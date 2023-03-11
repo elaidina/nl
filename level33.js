@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Papá vino a buscarnos en su auto.'
+      img: 'Papa kwam ons ophalen in zijn auto.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Nos puso en nuestros asientos de seguridad y nos abrochó los cinturones de seguridad.'
+      img: 'Hij zette ons in onze veiligheidsstoelen en maakte onze veiligheidsgordels vast.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: '¿Habéis disfrutado?'
+      img: 'Heb je genoten?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Salvé la vida de Tom..'
+      img: 'Ik heb Toms leven gered.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Bien hecho.'
+      img: 'Goed gedaan.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ahora pasa la página.'
+      img: 'Sla nu de bladzijde om.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ayúdame a resolver el rompecabezas.'
+      img: 'Help me de puzzel op te lossen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Señale las cosas que podrían ser peligrosas.'
+      img: 'Wijs op de dingen die gevaarlijk kunnen zijn.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Esta es una casa embrujada.'
+      img: 'Dit is een spookhuis.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Había una vez una niña.'
+      img: 'Er was eens een meisje.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Se fue a vivir a esta gran casa antigua.'
+      img: 'Ze ging in dit grote oude huis wonen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Era un lugar espléndido.'
+      img: 'Het was een prachtige plek.'
     }
   ]
 

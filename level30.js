@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Cuando me quedo quieto, puede que no me pique.'
+      img: 'Als ik stil blijf, prikt het me misschien niet.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'La abeja salió volando y yo estaba a salvo.'
+      img: 'De bij zoemde weg en ik was veilig.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jamie estaba sosteniendo una pequeña baya roja.'
+      img: 'Jamie hield een kleine rode bes vast.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Nunca debes comer nada que encuentres en el jardín.'
+      img: 'Je mag nooit iets eten wat je in de tuin vindt.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Podría ser venenoso.'
+      img: 'Het kan giftig zijn.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jamie abrió la boca para mostrarles que no había comido ninguna baya.'
+      img: 'Jamie deed zijn mond open om te laten zien dat hij geen bessen had gegeten.'
     }
   ]
 

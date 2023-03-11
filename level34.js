@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Pero la niña no era solo una niña.'
+      img: 'Maar het meisje was niet zomaar een meisje.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ella era una bruja.'
+      img: 'Ze was een heks.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ella sabía cómo atrapar fantasmas.'
+      img: 'Ze wist hoe ze geesten moest vangen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: '¡Espero que haya algunos más!'
+      img: 'Ik hoop dat er nog meer zijn!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ella continuó hasta que atrapó a todos los fantasmas de la casa.'
+      img: 'Ze ging door totdat ze alle geesten in huis had gevangen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Luego se fue a la cocina.'
+      img: 'Toen ging ze naar de keuken.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ella los puso todos en la lavadora.'
+      img: 'Ze heeft ze allemaal in de wasmachine gedaan.'
     },
     {
       name: '8',

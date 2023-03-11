@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'No te pares cerca de la cocina.'
+      img: 'Sta niet in de buurt van het fornuis.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hace mucho calor y podrías quemarte.'
+      img: 'Het is erg heet en je zou jezelf kunnen verbranden.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Oh no, he derramado mi leche.'
+      img: 'Oh nee, ik heb mijn melk gemorst.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom fue a buscar un trapeador al armario de la limpieza.'
+      img: 'Tom ging een dweil halen uit de schoonmaakkast.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dentro del armario estaban todas las cosas que necesitamos para mantener la casa limpia.'
+      img: 'In de kast lagen alle spullen die we nodig hebben om het huis schoon te houden.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: '¡Qué montón de botellas!'
+      img: 'Wat een hoop flessen!'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Mantengo la puerta del armario cerrada.'
+      img: 'Ik houd de kastdeur op slot.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Después del té vimos una película en la televisión.'
+      img: 'Na de thee hebben we een film op tv gekeken.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'El gato jugaba en el suelo.'
+      img: 'De kat speelde op de grond.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'El gato tiene un juguete pequeño.'
+      img: 'De kat heeft een klein speeltje.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: '¡Escúpelo!'
+      img: 'Spuug het uit!'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Podrías tragarlo y ahogarte.'
+      img: 'Je zou het kunnen inslikken en stikken.'
     }
   ]
 
