@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tan pronto como llegó a casa, probó su nuevo cepillo de dientes.'
+      img: 'Zodra hij thuiskwam, probeerde hij zijn nieuwe tandenborstel uit.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Michelle estaba muy emocionada.'
+      img: 'Michelle was erg opgewonden.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Pronto sería Navidad, así que escribió sus deseos.'
+      img: 'Het zou binnenkort Kerstmis zijn, dus schreef ze haar wensen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Nos pusimos sombreros, abrigos, bufandas y guantes porque hacía frío afuera.'
+      img: 'We deden onze mutsen, jassen, sjaals en handschoenen aan omdat het buiten koud was.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Había muchas familias eligiendo árboles de Navidad en el Garden Centre.'
+      img: 'Er waren veel gezinnen die kerstbomen aan het uitzoeken waren in het tuincentrum.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: '¿Qué árbol tomaremos?'
+      img: 'Welke boom zullen we krijgen?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Me gusta ese porque es muy grande.'
+      img: 'Ik vind die leuk omdat hij erg groot is.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Es demasiado grande para caber en nuestro coche.'
+      img: 'Het is te groot om in onze auto te passen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Estuvieron de acuerdo en un árbol más pequeño muy bonito.'
+      img: 'Ze waren het eens over een hele mooie kleinere boom.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Papá trajo un carrito para el árbol.'
+      img: 'Pa heeft een karretje voor de boom gehaald.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Los niños ayudaron a empujar el tranvía.'
+      img: 'De kinderen hielpen met het duwen van de trolley.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Podrían elegir dos nuevas decoraciones para árboles.'
+      img: 'Ze mochten twee nieuwe boomversieringen uitkiezen.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Solo no olvides colgar tus medias.'
+      img: 'Vergeet alleen niet je kousen op te hangen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Dejaremos una zanahoria para tus renos.'
+      img: 'We laten een wortel achter voor je rendier.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mami se asomó para ver cómo estaban.'
+      img: 'Mama gluurde naar binnen om te zien hoe het met ze ging.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: '¿Han sido buenos?'
+      img: 'Zijn ze goed geweest?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hon frågade jultomten.'
+      img: 'Ze vroeg het aan de Kerstman.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Tan buenos que merecen un pequeño regalo para abrir cuando lleguen a casa.'
+      img: 'Zo goed dat ze een cadeautje verdienen om open te maken als ze thuiskomen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Sacó un regalo para Tom de un saco.'
+      img: 'Hij haalde een cadeautje voor Tom uit een zak.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Muchas gracias.'
+      img: 'Hartelijk dank.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tan pronto como estuvo de regreso en el auto, abrió su regalo.'
+      img: 'Zodra hij terug in de auto zat, opende hij zijn cadeautje.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: '¡Tengo gafas de sol!'
+      img: 'Ik heb een zonnebril!'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Estaba muy contento.'
+      img: 'Hij was erg tevreden.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Nevó mucho mientras dormía.'
+      img: 'Het heeft veel gesneeuwd terwijl hij sliep.'
     }
   ]
 

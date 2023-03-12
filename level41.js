@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'En el camino a casa pasaron por una tienda de dulces.'
+      img: 'Op weg naar huis kwamen ze langs een snoepwinkel.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Me gustarían algunos dulces, pero no quiero un dolor de muelas como el de Tom.'
+      img: 'Ik zou graag wat snoep willen, maar ik wil geen kiespijn zoals Tom.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hay otras cosas sabrosas que son mejores para ti.'
+      img: 'Er zijn andere lekkere dingen die beter voor je zijn.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Así que compraron dos manzanas crujientes en el verdulero.'
+      img: 'Dus kochten ze twee knapperige appels bij de groenteboer.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Luego fueron a la farmacia a comprar cepillos de dientes nuevos.'
+      img: 'Toen gingen ze naar de drogist om nieuwe tandenborstels te kopen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'El químico les habló de las tabletas reveladoras.'
+      img: 'De apotheker vertelde hen over het onthullen van tabletten.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Simplemente mastique media tableta, luego enjuáguese la boca con agua.'
+      img: 'Kauw gewoon een halve tablet en spoel daarna je mond met water.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Él explicó.'
+      img: 'Hij legde uit.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Las partes de los dientes que más necesitan limpieza se volverán rosadas.'
+      img: 'De delen van je tanden die het meest moeten worden schoongemaakt, worden roze.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Nos veríamos raros yendo al patio de recreo con dientes rosados.'
+      img: 'We zouden er raar uitzien als we met roze tanden naar de speeltuin zouden gaan.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'El químico se rió.'
+      img: 'De apotheker lachte.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Cuando no queda rosa, sabes que tus dientes están limpios.'
+      img: 'Als er geen roze meer over is, weet je dat je tanden schoon zijn.'
     }
   ]
 

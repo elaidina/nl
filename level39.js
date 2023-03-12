@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tom la observó.'
+      img: 'Tom keek naar haar..'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'La Sra. White empujó el limado de plata en el agujero del diente de Tom.'
+      img: 'Mevrouw White duwde het zilvervijlsel in het gaatje van Toms tand.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ella lo presionó y lo hizo perfectamente suave.'
+      img: 'Ze drukte het naar beneden en maakte het perfect glad.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: '¡Como nuevo!'
+      img: 'Zo goed als nieuw!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: '¿Dolió?'
+      img: 'Deed het pijn?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'El taladro hacía ruido.'
+      img: 'De boor was luidruchtig.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Pero no me dolió.'
+      img: 'Maar het deed geen pijn.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ambos tienen buenos dientes.'
+      img: 'Jullie hebben allebei een goed gebit.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mantenlos así.'
+      img: 'Houd ze zo.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Come muchos alimentos diferentes.'
+      img: 'Eet veel verschillende soorten voedsel.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Pero recuerda, los alimentos dulces pueden dañar tus dientes, así que no los comas con demasiada frecuencia.'
+      img: 'Maar vergeet niet dat zoet voedsel je tanden kan beschadigen, dus eet ze niet te vaak.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Nunca olvides lavarte los dientes por la mañana y antes de acostarte con un dentífrico florido.'
+      img: "Vergeet nooit om 's ochtends en voor het slapen gaan je tanden te poetsen met een floride tandpasta."
     }
   ]
 

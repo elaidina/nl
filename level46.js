@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Sus medias estaban colgadas al final de su cama.'
+      img: 'Zijn kousen hingen aan het voeteneinde van zijn bed.'
     },
     {
       name: '2',

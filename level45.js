@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Por la mañana corrió directamente afuera para construir un muñeco de nieve.'
+      img: 'In de ochtend rende hij regelrecht naar buiten om een sneeuwpop te maken.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Papá los ayudó y por fin tenían un muñeco de nieve espléndido.'
+      img: 'Papa hielp hen en eindelijk hadden ze een prachtige sneeuwpop.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Tom corrió adentro y buscó un sombrero viejo para su cabeza y una zanahoria para su nariz.'
+      img: 'Tom rende naar binnen en haalde een oude hoed voor zijn hoofd en een wortel voor zijn neus.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Estaba oscureciendo.'
+      img: 'Het begon donker te worden.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Se llevaron una sorpresa cuando entraron a la sala de estar.'
+      img: 'Ze hadden een verrassing toen ze de woonkamer binnengingen.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'El árbol de Navidad estaba cubierto de luces centelleantes, oropel y pequeños juguetes.'
+      img: 'De kerstboom was bedekt met fonkelende lichtjes, klatergoud en klein speelgoed.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'El petirrojo estaba posado justo en la copa del árbol.'
+      img: 'Het roodborstje zat helemaal boven in de boom.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'No es justo.'
+      img: 'Het is niet eerlijk.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mi ángel debería estar en la cima.'
+      img: 'Mijn engel zou bovenaan moeten staan.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kitty entró en la habitación y vio al petirrojo.'
+      img: 'Kitty wandelde de kamer binnen en zag het roodborstje.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Por fin era Nochebuena, la noche en que llega Papá Noel.'
+      img: 'Eindelijk was het kerstavond, de avond waarop de kerstman komt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom se fue a la cama, pero no quería irse a dormir.'
+      img: 'Tom is naar bed gegaan, maar hij wilde niet slapen.'
     }
   ]
 

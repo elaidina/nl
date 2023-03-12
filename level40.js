@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Y no comas ni bebas en la cama.'
+      img: 'En eet of drink niet in bed.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: '¿Ni siquiera agua?'
+      img: 'Zelfs geen water?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Solo agua.'
+      img: 'Alleen water.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Las bebidas dulces pueden dañar los dientes tanto como los alimentos dulces.'
+      img: 'Zoete dranken kunnen je tanden net zo veel pijn doen als zoet voedsel.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vuelve a verme pronto.'
+      img: 'Kom terug en zie me snel.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Antes de irse a casa, la recepcionista anotó la fecha de su próxima visita.'
+      img: 'Voordat ze naar huis gingen, schreef de receptioniste de datum van hun volgende bezoek op.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'El niño pequeño estaba tratando de no llorar.'
+      img: 'De kleine jongen probeerde niet te huilen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: '¿Qué pasa, Tom?'
+      img: 'Wat is er aan de hand, Tom?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tengo dolor de dientes.'
+      img: 'Ik heb kiespijn.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Él come demasiados dulces.'
+      img: 'Hij eet te veel snoepjes.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'No importa.'
+      img: 'Laat maar.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'La Sra. White lo hará mejor.'
+      img: 'Mevrouw White zal het beter maken.'
     }
   ]
 
