@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hemos tenido aventuras.'
+      img: 'We hebben avonturen beleefd.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mamá no pudo hacer funcionar la estufa de campamento.'
+      img: 'Mama kreeg de kampkachel niet aan de praat.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Tendremos que conformarnos con un desayuno frío.'
+      img: 'We zullen het moeten doen met een koud ontbijt.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Papá vino a ver qué estaba mal.'
+      img: 'Papa kwam kijken wat er aan de hand was.'
     },
     /* {
       name: '5',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ven y únete a nosotros.'
+      img: 'Kom en sluit je bij ons aan.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Pronto hubo un delicioso olor a salchichas y tocino.'
+      img: 'Al snel was er de heerlijke geur van worst en spek.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Había suficiente para todos.'
+      img: 'Er was genoeg voor iedereen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Me encanta acampar.'
+      img: 'Ik ben dol op kamperen.'
     },
     /* {
       name: '10',

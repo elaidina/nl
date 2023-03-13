@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mamá había puesto una zanahoria para Rodolfo en su cómoda.'
+      img: 'Mama had een wortel voor Rudolph op zijn ladekast gelegd.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Me voy a quedar despierto para saludar a Papá Noel.'
+      img: 'Ik blijf wakker om de kerstman gedag te zeggen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Una hora después ya estaba dormido.'
+      img: 'Een uur later sliep hij al.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Se despertó temprano en la mañana.'
+      img: 'Hij werd vroeg in de ochtend wakker.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Estaba bastante oscuro, pero pudo ver que su calcetín estaba lleno de regalos.'
+      img: 'Het was behoorlijk donker, maar hij kon zien dat zijn kous vol cadeautjes zat.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vamos a acampar con nuestra familia.'
+      img: 'We gaan kamperen met ons gezin.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Es un viaje largo.'
+      img: 'Het is een lange rit.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Por fin llegamos al campamento.'
+      img: 'Eindelijk zijn we op de camping aangekomen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Estaba en un campo, al lado de un pequeño bosque.'
+      img: 'Het was in een veld naast een klein bos.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tom ayudó a descargar el auto.'
+      img: 'Tom hielp met het uitladen van de auto.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Montar las tiendas de campaña fue un rompecabezas al principio.'
+      img: 'Het opzetten van de tenten was in het begin een puzzel.'
     }
   ]
 

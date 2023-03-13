@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Pero Tom pronto recordó cómo hacerlo.'
+      img: 'Maar Tom herinnerde zich al snel hoe hij het moest doen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Me gusta más nuestra tienda.'
+      img: 'Ik vind onze tent het leukst.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Fui a buscar agua.'
+      img: 'Ik ging water halen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Después de la cena, Tom fue a explorar el bosque.'
+      img: 'Na het eten ging Tom het bos verkennen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Alguien ha estado pintando flechas en los árboles.'
+      img: 'Iemand heeft pijlen op de bomen geschilderd.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Si seguimos esas flechas, nos llevarán a dar un buen paseo y nos traerán de vuelta al campamento.'
+      img: 'Als we die pijlen volgen, nemen ze ons mee voor een flinke wandeling en brengen ze ons terug naar het kamp.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Los chicos grandes eran muy ruidosos.'
+      img: 'De grote jongens waren erg luidruchtig.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Vamos a jugar dentro de nuestra carpa.'
+      img: 'Laten we in onze tent gaan spelen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Es hora de que ustedes dos se metan en sus sacos de dormir.'
+      img: 'Het wordt tijd dat jullie tweeën in je slaapzakken kruipen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom estaba casi dormido en su cómodo saco de dormir cuando algo golpeó su tienda.'
+      img: 'Tom sliep bijna in zijn knusse slaapzak toen er iets tegen zijn tent viel.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Le dio un susto.'
+      img: 'Hij schrok er van.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Los niños traviesos habían pateado una pelota de fútbol con fuerza en la tienda de Tom.'
+      img: 'De stoute jongens hadden tegen Toms tent hard tegen een voetbal getrapt.'
     }
   ]
 
