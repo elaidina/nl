@@ -19,6 +19,28 @@ body {
   
  }
  
+ .laura {
+  position: fixed;
+  top: 0.5rem;
+  right: 1rem;
+  z-index: 10;
+  display: inline;
+  cursor: pointer;
+  text-decoration: none;
+  opacity: 60%;
+  padding: 0.5rem;
+  }
+  
+  .laura a {
+    color: #000;
+    text-decoration: none;
+    opacity: 60%;
+  }
+  
+  .laura a:hover {
+      color: #000;
+     opacity: 90%;  }
+
  .box {
    display: flex;
    flex-direction: column;
