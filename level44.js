@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ella le preguntó a Papá Noel.'
+      img: 'She asked Father Christmas.'
     },
     {
       name: '5',

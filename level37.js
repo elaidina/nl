@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tom klom in de tandartsstoel.'
+      img: 'Mevrouw White drukte op een knop en de stoel kantelde naar achteren.'
     },
     {
       name: '12',

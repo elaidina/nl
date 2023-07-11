@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ze komt in de middag terug..'
+      img: 'Ze komt in de middag terug.'
     },
     {
       name: '12',
